@@ -4,15 +4,15 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="assets/images/profiilikuva.png" alt="Photo" hspace="20" width="30%" align="right"/> I'm a Finnish student living in Vantaa, Finland. I study Phonetics as my major in Helsinki University. On the side of my studies I work at musical instrument sales and repair with expertise in guitars and basses. Additionally I'm a semi-professional audio engineer. I love playing guitar, making music and listening to good music (especially on vinyl). Mostly I listen to progressive metal, but I do enjoy other musical genres as well. Please go check out my band Numento!
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[GitHub](https://github.com/attasika), [Instagram](https://www.instagram.com/attasika/)
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My email address is atte.asikainen@helsinki.fi
 
 ## Courses I've Taken
 
@@ -24,4 +24,20 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+### Listen to Numento
+
+[Spotify](https://open.spotify.com/artist/3t5HzeySOZvzNSEpvDiA5M?si=YThHLhJDT8Wfvk8UYanmog), [Bandcamp](https://numento.bandcamp.com)
+
+### Numento at Social Media                                                                                              
+
+[Instagram](https://www.instagram.com/numentoband/), [Facebook](https://www.facebook.com/numentofin/), [YouTube](https://www.youtube.com/channel/UC_3YNrisPhQufU6IJmOEnMg)
+
+### CAST A VOTE FOR NUMENTO IN THE TUSKA-TORSTAI COMPETITION!
+Instructions:
+
+1. Open [the link to competition website](http://www.tuska-torstai.fi/bands3.html)
+2. Scroll down until you see Numento
+3. Hit the _like_ button at Numento
+4. You're done! Thanks for your help! ^^
+
+
