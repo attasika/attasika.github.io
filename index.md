@@ -138,6 +138,12 @@ TVT-ajokortti, Käyttäytymistieteellisen tiedekunnan opiskelijoille, fall 2014
 
 ## Projects
 
+![A typical cmd-line window](https://www.maketecheasier.com/assets/uploads/2019/05/ubuntu-upgrade-cli-featured-800x400.png)
+_Photo from https://www.maketecheasier.com/upgrade-ubuntu-from-command-line/_
+
+[The command line course](https://github.com/attasika/cmdline-course) is my first Github project. On the particular course I learned basic command line skills and some text processing functions the command line platform can offer.
+
+
 ## Misc. 
 
 ### Listen to Numento
