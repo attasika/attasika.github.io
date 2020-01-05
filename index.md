@@ -4,7 +4,11 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/profiilikuva.png" alt="Photo" hspace="20" width="30%" align="right"/> I'm a Finnish student living in Vantaa, Finland. I study Phonetics as my major in Helsinki University. On the side of my studies I work at musical instrument sales and repair with expertise in guitars and basses. Additionally I'm a semi-professional audio engineer. I love playing guitar, making music and listening to good music (especially on vinyl). Mostly I listen to progressive metal, but I do enjoy other musical genres as well. Please go check out my band Numento!
+<img src="assets/images/profiilikuva.png" alt="Photo" hspace="20" width="30%" align="right"/> I'm a Finnish student living in Vantaa, Finland. I study Phonetics as my major in Helsinki University. On the side of my studies I work at musical instrument sales and maintenance with expertise in guitars and basses. Additionally, I'm a semi-professional audio engineer. I love playing guitar, making music and listening to good music (especially on vinyl). Mostly I listen to progressive metal, but I do enjoy other musical genres as well. Please go check out my band Numento!
+
+### My _Curriculum Vitae_
+
+View on [Overleaf](https://www.overleaf.com/read/hpvzvvqgthdv)
 
 ## Find me on
 
@@ -155,7 +159,7 @@ _Photo from https://www.maketecheasier.com/upgrade-ubuntu-from-command-line/_
 [Instagram](https://www.instagram.com/numentoband/), [Facebook](https://www.facebook.com/numentofin/), [YouTube](https://www.youtube.com/channel/UC_3YNrisPhQufU6IJmOEnMg)
 
 ### CAST A VOTE FOR NUMENTO IN THE TUSKA-TORSTAI COMPETITION!
-Instructions:
+**Instructions:**
 
 1. Open [the link to competition website](http://www.tuska-torstai.fi/bands3.html)
 2. Scroll down until you see Numento
