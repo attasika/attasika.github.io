@@ -159,11 +159,12 @@ _Photo from https://www.maketecheasier.com/upgrade-ubuntu-from-command-line/_
 [Instagram](https://www.instagram.com/numentoband/), [Facebook](https://www.facebook.com/numentofin/), [YouTube](https://www.youtube.com/channel/UC_3YNrisPhQufU6IJmOEnMg)
 
 ### CAST A VOTE FOR NUMENTO IN THE TUSKA-TORSTAI COMPETITION!
-**Instructions:**
-
+**Instructions:**  
 1. Open [the link to competition website](http://www.tuska-torstai.fi/bands3.html)
 2. Scroll down until you see Numento
 3. Hit the _like_ button at Numento
 4. You're done! Thanks for your help! ^^
+
+_Voting closes on January 12. 2020_
 
 
